@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: invasion;
+    src: url(.//assets/the\ Invasion.ttf);
+}
+@font-face {
+    font-family: Brownista;
+    src: url(.//assets/Brownista.otf);
+}
+ body{
+    font-family: Brownista;
+ }
